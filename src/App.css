@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: #282c34;
+}
+
+#text1 {
+  color: #fff;
+  font-size: 50px;
+  padding-top: 1%;
+}
+
+#text {
+  color: rgba(60, 184, 23, 0.76);
+  font-size: calc(10px + 2vmin);
+  padding: 2%;
+  font-size: 40px;
+}
+
+button {
+  margin: .3%;
+  background-color: #282c34a4;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: .5%;
+}
+
+button:hover {
+  background-color: rgba(255, 255, 255, 0.596);
+  cursor: pointer;
+}
+
+
+
